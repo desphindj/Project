@@ -1,0 +1,88 @@
+
+.login_background
+{
+  background-color: rgba(135, 207, 235, 0.675);
+  height: 1000px;
+  width: 1500px;
+}
+
+.login_box
+{
+    height: 30px;
+    width: 100px;
+}
+
+.login_box
+{
+    height: 500px;
+    width: 400px;
+    border: 2px solid skyblue;
+    background-color: white;
+    margin-left: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.349);
+}
+
+.input
+{
+    height: 40px;
+    width: 350px;
+    padding-left: 10px;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 20px;
+}
+
+.input2
+{
+    height: 100px;
+    width: 350px;
+    padding-left: 10px;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 20px;
+}
+
+.button
+{
+    margin-top: 20px;
+    height: 30px;
+    width: 140px;
+    background-color: skyblue;
+    color: white;
+    border: 1px solid rgb(201, 100, 100);
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.input3
+{
+    height: 40px;
+    width: 350px;
+    padding-left: 10px;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* jegggg */
+

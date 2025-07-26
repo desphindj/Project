@@ -1,0 +1,140 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.box{
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    height: 30px;
+    width: 1550px;
+    padding-top: 10px;
+    position: fixed;
+    margin-top: 49px;
+
+}
+.box h1{
+    float: left;
+    margin-right: 700px;
+    margin-left: 50px;
+    color: white;
+}
+
+.box li{
+    float: left;
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 2px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    list-style-type: none;
+}
+.boxx{
+    height: 300px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 15px;
+    padding-top: 25px;
+    float: left;
+}
+.boo{
+    background-color: red;
+    height: 250px;
+    width: 300px;
+    margin-left: 25px;
+
+}
+
+a.active
+{
+    color: rgb(11, 9, 9);
+}
+
+a
+{
+    color: white;
+}
+
+.top{
+    height: 55px;
+    width: 1550px;
+    background-color: rgb(253, 253, 253);
+    position: fixed;
+    background-color: #fb5f5fa2;
+    padding-top:10px ;
+}
+.webname
+{
+    color: #b82e1f;
+    font-size: 30px;
+    margin-top: 6px;
+    margin-left: 10px;
+    float: left;
+}
+.searchbox
+{
+    height: 30px;
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 50px;
+    font-size: 20px;
+    padding:0px 10px;
+    border-radius: 40px;
+    border: 2px solid black;
+   
+    float: left;
+}
+.dropdownboxes p 
+{
+    float: left;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.total-searchbar button
+{
+    float: left;
+    margin-top: 5px;
+    padding: 5px 10px;
+    margin-left: 30px;
+    border-radius: 50px;
+    border: 1px solid black;
+    background-color: #b82e1f;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+}
+.link
+{
+    color: rgb(239, 40, 40);
+    text-decoration: none;
+}
+.dropbownbox-country
+{
+    height: auto;
+    width: auto;
+    padding: 20px;
+    background-color: #b82e1f7b;
+    margin-left: -50px;
+    display: none;
+}
+.dropbownbox-country a {
+    display: block;
+    padding: 12px 16px;
+  }
+.country:hover .dropbownbox-country
+{
+    display: block;
+}
+
+.country-link
+{
+    text-decoration: none;
+    color: black;
+}
+
+
